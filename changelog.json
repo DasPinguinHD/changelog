@@ -1,0 +1,15 @@
+{
+  "VERSION": "3.0.0",
+  "ADDED": [
+    "Added Custom Commands which use .Net class libaries (Tutorial can be found in #Tutorials)",
+    "Rewrote the whole bot for better performance",
+    "Added Copycat command",
+    "Added Custom Themes",
+    "Fixed 99% of bugs"
+  ],
+  "CHANGED": [
+    "We made changes in the config to give it a cleaner look",
+    "More features added to the text custom commands"
+  ],
+  "REMOVED": [ "We removed some commands because they were useless" ]
+}
